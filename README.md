@@ -13,4 +13,7 @@ PlanMyTrip will use the data to recommend ideal hotels based on clients' weather
 
 Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
+Google Maps was installed to Python:
+![image](https://user-images.githubusercontent.com/95327338/152665068-6fdff130-b7f6-4612-986c-831fdb48fa80.png)
+
 
