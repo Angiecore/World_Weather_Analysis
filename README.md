@@ -16,4 +16,19 @@ Create a Pandas DataFrame with 500 or more of the world's unique cities and thei
 Google Maps was installed to Python:
 ![image](https://user-images.githubusercontent.com/95327338/152665068-6fdff130-b7f6-4612-986c-831fdb48fa80.png)
 
+In Weather_Database.ipynb you can see the code used to create a city data frame. Also, this data was exported in a csv file.
+![image](https://user-images.githubusercontent.com/95327338/152665123-5741d4e7-a890-4194-ac48-84cf235bef51.png)
+
+In Vacation_Search.ipynb you can see the code to create a customer travel destination.
+
+![image](https://user-images.githubusercontent.com/95327338/152665178-86608d3d-f57f-4bc2-9c81-8bb26b84c693.png)
+
+In Vacation_Itinerary.ipynb you can see the code to create a travel itinerary.
+
+![image](https://user-images.githubusercontent.com/95327338/152665217-4324d5f5-8602-427b-a43a-1e467014ab6f.png)
+![image](https://user-images.githubusercontent.com/95327338/152665220-2e9b7d99-ce3d-428c-b332-4045b0e31e1b.png)
+![image](https://user-images.githubusercontent.com/95327338/152665318-f06db47e-7e5c-40b1-aa59-967bf7181728.png)
+![image](https://user-images.githubusercontent.com/95327338/152665323-09bc290c-ba43-43de-b62f-14cb24a6924b.png)
+
+
 
